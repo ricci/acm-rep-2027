@@ -27,9 +27,9 @@
 #   parent: participate
 #   url: sponsor
 #   weight: 20
-# - name: Attend
-#   identifier: attend
-#   weight: 20
+  - name: Attend
+    identifier: attend
+    weight: 20
 # - name: Travel & Venue
 #   parent: attend
 #   url: venue
@@ -42,10 +42,10 @@
 #   parent: attend
 #   url: health
 #   weight: 10
-# - name: Diversity & Inclusion
-#   parent: attend
-#   url: diversity
-#   weight: 20
+  - name: Diversity & Inclusion
+    parent: attend
+    url: diversity
+    weight: 20
   - name: Code of Conduct
     parent: attend
     url: conduct
