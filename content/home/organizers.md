@@ -22,8 +22,5 @@ TBD
 ### Proceedings
 TBD  
 
-### Public Relations
-TBD  
-
 ### Website
 <a href="https://users.soe.ucsc.edu/~carlosm/dev/">Carlos Maltzahn (UC Santa Cruz)</a>
