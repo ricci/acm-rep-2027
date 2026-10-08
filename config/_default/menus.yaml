@@ -3,18 +3,18 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
-# - name: Participate
-#   identifier: participate
-#   weight: 10
+  main:
+  - name: Participate
+    identifier: participate
+    weight: 10
 # - name: Call for Tutorials
 #   parent: participate
 #   url: cft
 #   weight: 40
-# - name: Call for Papers
-#   parent: participate
-#   url: cfp
-#   weight: 30
+  - name: Call for Papers
+    parent: participate
+    url: cfp
+    weight: 30
 # - name: Call for Posters
 #   parent: participate
 #   url: cfposters
@@ -46,10 +46,10 @@ main:
 #   parent: attend
 #   url: diversity
 #   weight: 20
-# - name: Code of Conduct
-#   parent: attend
-#   url: conduct
-#   weight: 30
+  - name: Code of Conduct
+    parent: attend
+    url: conduct
+    weight: 30
 # - name: Program
 #   identifier: program
 #   weight: 30
