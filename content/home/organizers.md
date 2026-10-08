@@ -8,7 +8,7 @@ active: true
 ---
 
 ### General Chair
-Robert Ricci (University of Utah)  
+<a href="https://ricci.io">Robert Ricci (University of Utah)</a>
 
 ### Program Chairs
 TBD  
@@ -17,7 +17,7 @@ TBD
 TBD  
 
 ### Local Arrangements Chairs
-Robert Ricci (University of Utah)  
+<a href="https://ricci.io">Robert Ricci (University of Utah)</a>
   
 ### Proceedings
 TBD  
@@ -26,4 +26,4 @@ TBD
 TBD  
 
 ### Website
-Carlos Maltzahn (UC Santa Cruz)  
+<a href="https://users.soe.ucsc.edu/~carlosm/dev/">Carlos Maltzahn (UC Santa Cruz)</a>
