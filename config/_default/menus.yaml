@@ -4,17 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
   main:
-  - name: Participate
-    identifier: participate
-    weight: 10
+# - name: Participate
+#   identifier: participate
+#   weight: 10
 # - name: Call for Tutorials
 #   parent: participate
 #   url: cft
 #   weight: 40
-  - name: Call for Papers
-    parent: participate
-    url: cfp
-    weight: 30
+# - name: Call for Papers
+#   parent: participate
+#   url: cfp
+#   weight: 30
 # - name: Call for Posters
 #   parent: participate
 #   url: cfposters

@@ -7,6 +7,11 @@ subtitle: ""
 active: true
 ---
 
+{{< callout warning >}}
+This CFP is a draft, and subject to change before it is officially announced.
+{{< /callout >}}
+
+
 ACM REP '27 welcomes submissions across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference particularly values submissions that demonstrate reproducible experimental results. Where full reproduction is not achieved, detailed documentation of the reproducibility experience is equally valuable.
 
 The conference addresses various aspects of reproducibility and replicability, including but not limited to the following topics: 
